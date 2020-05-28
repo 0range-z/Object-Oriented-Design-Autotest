@@ -1,0 +1,21 @@
+qbs
+ap 1 limbo 1 100
+qbs
+ap 2 nyima 1 50
+qbs
+ar 1 2 100
+qbs
+ap 3 claw 1 2000
+qbs
+ap 4 orange 1 0
+qbs
+ar 3 4 100
+qbs
+ar 1 4 100
+qbs
+ap 5 orange 1 0
+qbs
+ag 1
+atg 5 1
+dfg 5 1
+qbs

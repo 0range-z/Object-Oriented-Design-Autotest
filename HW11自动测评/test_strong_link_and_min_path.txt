@@ -1,0 +1,105 @@
+ap 1 limbo 1 100
+ap 2 nyima 1 50
+ap 3 claw 1 2000
+ap 4 orange 1 0
+ap 5 orange 1 0
+ap 6 claw 1 666
+ap 7 nyima 1 233
+ap 8 limbo 1 99
+ap 9 wow 1 69
+ar 1 2 1
+qsl 1 2
+qmp 1 2
+ar 1 4 2
+qsl 2 4
+qmp 2 4
+ar 2 4 4
+qsl 1 4
+qmp 2 4
+ar 2 5 8
+ar 3 4 16
+ar 3 6 32
+ar 4 5 64
+ar 4 7 128
+ar 6 7 256
+ar 7 9 512
+qsl 1 1
+qsl 1 2
+qsl 1 3
+qsl 1 4
+qsl 1 5
+qsl 1 6
+qsl 1 7
+qsl 1 8
+qsl 8 1
+qsl 1 9
+qsl 9 1
+ap 666 mark 1 1
+qsl 2 3
+qsl 2 4
+qsl 2 5
+qsl 2 6
+qsl 2 7
+qsl 2 8
+qsl 8 2
+qsl 2 9
+ap 10 mark 1 1
+qsl 3 4
+qsl 3 5
+qsl 3 6
+qsl 3 7
+qsl 3 9
+ap 11 mark 1 1
+qsl 4 5
+qsl 4 6
+qsl 4 7
+qsl 4 9
+ap 12 mark 1 1
+qsl 5 6
+qsl 5 7
+qsl 5 9
+ap 13 mark 1 1
+qsl 6 7
+qsl 6 9
+qsl 7 9
+qsl 9 7
+ap 14 mark 1 1
+
+qmp 1 1
+qmp 1 2
+qmp 1 3
+qmp 1 4
+qmp 1 5
+qmp 1 6
+qmp 1 7
+qmp 1 8
+qmp 8 1
+qmp 1 9
+qmp 9 1
+ap 15 mark 1 1
+qmp 2 3
+qmp 2 4
+qmp 2 5
+qmp 2 6
+qmp 2 7
+qmp 2 8
+qmp 8 2
+qmp 2 9
+ap 16 mark 1 1
+qmp 3 4
+qmp 3 5
+qmp 3 6
+qmp 3 7
+ap 17 mark 1 1
+qmp 4 5
+qmp 4 6
+qmp 4 7
+ap 18 mark 1 1
+qmp 5 6
+qmp 5 7
+ap 19 mark 1 1
+qmp 6 7
+qmp 6 9
+qmp 7 9
+qmp 9 7
+qmp 9 6

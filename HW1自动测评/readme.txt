@@ -1,0 +1,4 @@
+写hw1的时候俺还没写对拍，只有一个生成器
+不过你可以用hw3自动测评的beatmatching
+（只需要把from hw3_generate import generator改成这个目录下的generate就可以）
+其他事项见上一级目录的README
